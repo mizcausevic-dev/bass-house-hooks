@@ -1,0 +1,26 @@
+{
+  "title": "Bass House Hooks",
+  "study": "bx01",
+  "bpm": 126,
+  "source_audio": "preview/bass-house-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "2d2c11ab58d4797f232191edf93b0d14a373d6ce4b01b4ac017a9eee5cab2288",
+  "source_midi": "midi/bx01-low-swing/bx01-low-swing-combined.mid",
+  "source_midi_sha256": "8aebb0ee3489b5084234f77f352f6dda0619ba882a16fd38013b4f8143e743f2",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "74401cce92a5da3248502a45d041667c4b940797ea24a042897ea7db8b13f328",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "a7d76275871742bdad43a25067d3f6dcf1777c62668a615f37739923250d885d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "54b58cabf1a2a2cfac5cab9b23cd5b12e3651f031ce5cb5b464d5d7eec8c3414",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
