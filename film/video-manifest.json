@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/bass-house-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "2d2c11ab58d4797f232191edf93b0d14a373d6ce4b01b4ac017a9eee5cab2288",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "5f9e64dc1a13b180637d6098029fa455d9dd55fa2751e770472362275a5133ea",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

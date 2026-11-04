@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/bass-house-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "2d2c11ab58d4797f232191edf93b0d14a373d6ce4b01b4ac017a9eee5cab2288",
+  "source_midi_path": "midi/bx01-low-swing/bx01-low-swing-combined.mid",
+  "source_midi_sha256": "8aebb0ee3489b5084234f77f352f6dda0619ba882a16fd38013b4f8143e743f2",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "bx01",
+    "start_seconds": 0,
+    "end_seconds": 60.952
+  },
+  "measurement": {
+    "sample_peak": 0.108128,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
