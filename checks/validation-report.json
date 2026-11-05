@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:30.282353+00:00",
+  "run_time_utc": "2026-11-05T22:25:11.962016+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/bx01-low-swing/bx01-low-swing-combined.mid",
-      "bytes": 5824,
-      "sha256": "8aebb0ee3489b5084234f77f352f6dda0619ba882a16fd38013b4f8143e743f2",
+      "bytes": 5925,
+      "sha256": "b85822351345e9b596569fcc36bbf87977d47876040f16c4bf7e09bce4adf0eb",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/bx01-low-swing/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "c7d7150e61aba6e6b05eb2eb2f3b26a20181ee96baa30403306529f4df467b4b",
+      "bytes": 592,
+      "sha256": "e7c86e4d772a22f21987d59e9ac7189e3fb19672968ba7a1a7e430a2a0c3ca71",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/bx02-cut-signal/bx02-cut-signal-combined.mid",
-      "bytes": 5824,
-      "sha256": "d6487bc67c2052de4d71d86709752fd93218fb083b11ac87fd5e7cc72dbb6791",
+      "bytes": 5925,
+      "sha256": "5a47c80d23ae00d33badaf29fdc601e9fa53e3fd456d7d647d3ba559ba6d635c",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/bx02-cut-signal/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "95a64a7cffa23492b6b095f3d6f2fec78ccb1b89b293885d8fd09c954881b51c",
+      "bytes": 592,
+      "sha256": "2a422fed23090f2cc409fc1a2407c1b40530e2cd64ee2d675cbcde23de0b547a",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/bx03-corner-bass/bx03-corner-bass-combined.mid",
-      "bytes": 5804,
-      "sha256": "25e5cebba3507b200010e610de16d4de4f4ca271e1eeca4b371ee80c80bcc7bf",
+      "bytes": 5906,
+      "sha256": "92258e7f82fd9b0171110eddde2fe35290331cc26abc94e9fea22a675b743634",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/bx03-corner-bass/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "01f310af14dc9854a6bfe88ed6bf4f32528f75203b1dfc552e0bd57ec297d17a",
+      "bytes": 573,
+      "sha256": "fb0698e7be50be48de19f9649267b4698d788280f362182d567be92384ff287c",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/bx04-last-hook/bx04-last-hook-combined.mid",
-      "bytes": 5804,
-      "sha256": "3cd871f90f04b72012e82be651f9783aaf05de9e278d960246a928469d3794a6",
+      "bytes": 5906,
+      "sha256": "d823afe35a761424ae120e85033e9d6bed14091f1be335b6f2000c8e96379fd8",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/bx04-last-hook/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "a612bc86fce9584e05eff4f414285e107b305c9c3cc3166bafbb7570e5f7ffbf",
+      "bytes": 573,
+      "sha256": "7b6aadcec0b8489eda2964e562ab119eedab76a84d58326185727c55f3cdb92a",
       "errors": []
     },
     {

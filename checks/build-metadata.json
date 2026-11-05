@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "bass-house-hooks",
-  "source_builder_sha256": "e35a3f2e1866d9ab4ef967ffed3735bad3a43826b44215b1deae4085aba4b5b4",
+  "source_builder_sha256": "adbc6c28ac5fe42a24a95e9b0df97ef9d88fd9bfd83f3de157621c15eaa8c9ca",
   "commands": [
     "python tools/build_release.py --pack bass-house-hooks",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-04T21:47:12.977460+00:00",
+  "run_time_utc": "2026-11-05T22:24:00.300867+00:00",
   "python": "3.14.0"
 }

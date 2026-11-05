@@ -1,15 +1,26 @@
 {
+  "title": "Bass House Hooks",
+  "study": "bx01",
+  "bpm": 126,
   "source_audio": "preview/bass-house-hooks-simple-synth-preview.mp3",
-  "source_audio_sha256": "2d2c11ab58d4797f232191edf93b0d14a373d6ce4b01b4ac017a9eee5cab2288",
+  "source_audio_sha256": "66d45a6b30926aac005cf8b36b1c2b5ea09f99bb253c54afad63bf6512ae52f1",
+  "source_midi": "midi/bx01-low-swing/bx01-low-swing-combined.mid",
+  "source_midi_sha256": "b85822351345e9b596569fcc36bbf87977d47876040f16c4bf7e09bce4adf0eb",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0b5c681548b4b45bb7776becb402d1cd0472a3a57c6edee04da39b15dafeab90",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "a7d76275871742bdad43a25067d3f6dcf1777c62668a615f37739923250d885d",
   "excerpt_start_seconds": 0,
-  "excerpt_duration_seconds": 18,
-  "video": "film/preview.mp4",
-  "video_sha256": "5f9e64dc1a13b180637d6098029fa455d9dd55fa2751e770472362275a5133ea",
   "duration_seconds": 18.0,
-  "video_codec": "H.264",
-  "audio_codec": "AAC",
+  "video": "film/preview.mp4",
+  "video_sha256": "eb960afd0388afeed615e37790aeed9258a531334334eef97baf0e7748fa3ee2",
   "caption": "film/preview.vtt",
-  "poster": "film/poster.jpg",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
   "disclosure": "preview, not master",
-  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
 }
