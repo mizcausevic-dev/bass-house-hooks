@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/bass-house-hooks-midi.zip",
-      "bytes": 31873,
-      "sha256": "c4814441076cae552ce36c7f00e70d0c42780b35ff40e0efb339d83af957b6d6"
+      "bytes": 32860,
+      "sha256": "7b9695f7f9072b6c5698af77ceeee859ed1e60fcbfae4df773b1e7c3bd6a146d"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10729,
-      "sha256": "2d8f84fb9f3da64f58650d85abd03a570288dc2556ccd6eb7f785e8cb2885b78"
+      "bytes": 10919,
+      "sha256": "f87dd799edba3f6c674ae1980896109351922ec234b6759024e71cf9cdbbfe15"
     },
     {
       "path": "midi/bx01-low-swing/bx01-low-swing-combined.mid",
@@ -387,6 +387,11 @@
       "sha256": "e6ee0642b29c11503f0970f72fb75283c9dc3275d9bc2f86000d44f13ce546fb"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 786,
       "sha256": "7ba7df6517df383af766219d46c293940ea3d7a20a0dc460b328da6660d80915"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4254,
-      "sha256": "32e8bf0c8b1dd23ef7c9acce4ba34f4345284e10200bd3d9d934f55f0e8f0be2"
+      "bytes": 4369,
+      "sha256": "63a6dd28810850055a5819e5ced40dd5670c36aa1179a7e4ea505a6eda5d2225"
     },
     {
       "path": "REVISION.md",
